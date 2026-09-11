@@ -238,14 +238,11 @@ DBMS-Mastery Repository: https://github.com/kadirisaikumar3/DBMS-Mastery
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kadirisaikumar3&theme=tokyonight"/>
 
-
 # 📈 Contribution Graph
 
 <p align="center">
 
-# 📊 GitHub Activity
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kadirisaikumar3&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kadirisaikumar3&theme=github-compact"/>
 
 </p>
 
