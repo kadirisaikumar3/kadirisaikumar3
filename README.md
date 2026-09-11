@@ -235,10 +235,6 @@ DBMS-Mastery Repository: https://github.com/kadirisaikumar3/DBMS-Mastery
 
 # 📊 GitHub Activity
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kadirisaikumar3&theme=tokyonight"/>
-
-# 📊 GitHub Activity
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kadirisaikumar3&theme=tokyonight" alt="Top Languages by Repository"/>
 </p>
